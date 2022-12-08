@@ -43,7 +43,7 @@
                                 if (mysqli_num_rows($result) > 0) {
                                     while($row = mysqli_fetch_array($result)) {
                                     if($row['image']== ''){
-                                    echo '<img src="image/img_avatar.png" alt="Avatar" class="avatar">';
+                                    // echo '<img src="image/img_avatar.png" alt="Avatar" class="avatar">';
                             }else{
                                 ?>  <img src="admin/image/<?php echo $row["image"]; ?>" alt="Avatar" class="avatar">
                                 <?php
@@ -51,7 +51,7 @@
                             }
                         }
                         ?>
-                                <span>Hii <?php echo $_SESSION['uname'];?></span>
+                                <span>Hi,  <?php echo $_SESSION['uname'];?></span>
                                 <a href="logout.php"> Logout</a>
                             </div>
                            
@@ -80,7 +80,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-3">
                     <div class="header__logo">
-                        <a href="./index.html"><img src="img/logo.png" alt=""></a>
+                        <a href="./index.php"><img src="img/logo.png" alt=""></a>
                     </div> 
                 </div>
                 <div class="col-lg-9 col-md-9">

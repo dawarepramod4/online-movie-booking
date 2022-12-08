@@ -45,13 +45,12 @@ session_start();
                         <div class="section-title">
                             <span>Information</span>
                             <h2>Contact Us</h2>
-                            <p>As you might expect of a company that began as a high-end interiors contractor, we pay
-                                strict attention.</p>
+                            <p>We are Inox Theater with the best in the world Technology!</p>
                         </div>
                         <ul>
                             <li>
-                                <h4>Surendranagar</h4>
-                                <p>Inox Cinema, Near Upashna Circle, Surendranagar.  <br />+91 187-654-3210
+                                <h4>Pune, India</h4>
+                                <p>Inox Cinema Kondhwa, Pune<br />+91 8625820649
                                     <br />+91 258-963-1470</p>
                             </li>
                         

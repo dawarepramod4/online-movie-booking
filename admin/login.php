@@ -21,7 +21,7 @@
     </div>
     <p id="message"></p>
     <div class="mb-3 col-md-4">
-      <button class="form-control btn btn-danger" id="checkValidation">Login</button>
+      <button class="form-control btn btn-danger" id="checkValidation" >Login</button>
     </div>
   </div>
 </body>

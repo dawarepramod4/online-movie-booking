@@ -32,7 +32,7 @@ if (!isset($_SESSION['uname'])) {
 <div class="card ">
                 <div class="card-header">
                     <center><img src="img/logo.png" width="40%">
-                    <h6> Near Upansna Circle, Surendranagar</h6></center>
+                    <h6> Inox, Kondhwa,Pune,India</h6></center>
                     <?php 
                   include "Database.php";
                   $result = mysqli_query($conn,"SELECT c.movie,c.booking_date,c.show_time,c.seat,c.totalseat,c.price,c.payment_date,c.custemer_id,u.username,u.email,u.mobile,u.city,t.theater FROM customers c INNER JOIN user u on c.uid=u.id INNER JOIN theater_show t on c.show_time=t.show WHERE custemer_id = '".$_SESSION['custemer_id']."'");
@@ -92,7 +92,7 @@ if (!isset($_SESSION['uname'])) {
                    </tr>
                    
                    </table>
-                   
+                   <a href="index.php"><button class="btn btn-primary">Home</button></a>
                 </div>
             </div>
         </div>
