@@ -3,21 +3,15 @@ Requirements
 	MySQL 5 database
 # VIIT PUNE
 ## PROJECT WORKSHOP
+## Movie Ticket Booking System
 created By: 
-1.Pramod Daware
-2.Ayush Kumbhare
-3.Tanmay Joshi
-4.Jalindar Mogal
-Database Name : moviebook
+1. Pramod Daware
+2. Ayush Kumbhare
+3. Tanmay Joshi
+4. Jalindar Mogal
 
-Features:
-1. Login / Logout for customer.
-2. Seperate login for admin (location/hms-admin) - username: admin, password: admin
-3. online  manualy seat book
-4. payment method
-5. admin can Movie,Time,User etc. "add edit delete and select"
-6. admin can Manage the user and payment history
-7. Best Logical php code i
+
+Database Name : moviebook
 
 Note: 
 1. This project is for college and study only
