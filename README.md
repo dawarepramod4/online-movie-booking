@@ -3,7 +3,11 @@ Requirements
 	MySQL 5 database
 # VIIT PUNE
 ## PROJECT WORKSHOP
-
+created By: 
+1.Pramod Daware
+2.Ayush Kumbhare
+3.Tanmay Joshi
+4.Jalindar Mogal
 Database Name : moviebook
 
 Features:
